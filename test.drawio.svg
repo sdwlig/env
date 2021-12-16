@@ -1,0 +1,35 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="91px" height="201px" viewBox="-0.5 -0.5 91 201" content="&lt;mxfile&gt;&lt;diagram id=&quot;p4s8l4DQPOr2LnEeJsJ9&quot; name=&quot;Page-1&quot;&gt;xZRLb4MwDMc/DdeKgsba4/rcZaceth4jcCFSICyEAvv0c8DhMdpp0jTtAvHPdh7/2HH8bVofFcuTFxmBcDw3qh1/53je2vXxa0DTgWDtdSBWPOrQcgAn/gEEXaIlj6CYBGopheb5FIYyyyDUE8aUktU07CLFdNWcxTADp5CJOX3lkU46unpwB/4MPE7sykuXPCmzwQSKhEWyGiF/7/hbJaXuRmm9BWG0s7p0eYc73n5jCjL9k4SAtqEbezaI8KhkZjLD3ybRqUBriUOouX7Dsbt4IOs88uzMBbvWaKyRadWMkox5HvuGtNayed3WzH7uHo5QIUsVUhRVkmYqBorye2GxIEGmgKtgiALBNL9OZ2dUGnEfN6iHAxLwtpi09JWJkiZ1vEDgJjYMcaLg0tLgvTTXi7JqU69PZn7vEEsZC1iEMh0icBSb/7H12ckwmFnP7PqqhGs45ayVo8Lum94fK/KuIS68hqif4ApKQ/29zHMBbcIjFTN184rMatQahJJRV1j2G8X9G4p/rWch8FkwZfwf0qym0njun2mD5vBstL7R2+vvPwE=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 40 80 L 48.46 113.82" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 49.73 118.92 L 44.64 112.97 L 48.46 113.82 L 51.43 111.28 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="0" width="80" height="80" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 40px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <a href="https://google.com">
+                                    Google
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="40" y="44" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Google
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="50" cy="160" rx="40" ry="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
